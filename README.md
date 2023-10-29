@@ -16,11 +16,11 @@ The percentage change from the opening price at the beginning of a given year to
 
 The total stock volume of the stock. The result should match the following image:
 
-![moderate_solution](Images/moderate_solution.png)
+(moderate_solution.png)
 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
-![hard_solution](Images/hard_solution.png)
+(hard_solution.png)
 
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
 
