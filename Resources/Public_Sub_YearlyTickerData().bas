@@ -95,7 +95,7 @@ Public Sub YearlyTickerData()
                 ws.Cells(3, 16).Value = ws.Cells(g, 9).Value
             End If
 
-            'Writes the results in the specified cells
+            'Writes the results in the specified cells based on the necessary format
             ws.Cells(2, 17).Value = Format(Greatest_Increase, "Percent")
             ws.Cells(3, 17).Value = Format(Greatest_Decrease, "Percent")
             ws.Cells(4, 17).Value = Format(Greatest_Volume, "Scientific")
