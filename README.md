@@ -16,7 +16,7 @@ The percentage change from the opening price at the beginning of a given year to
 
 The total stock volume of the stock. The result should match the following image:
 
-(moderate_solution.png)
+<img width="718" alt="moderate_solution" src="https://github.com/JesseOli100/VBA-challenge/assets/62526904/9b8216f0-b43b-4a67-8e66-e3921ee90bba">
 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
