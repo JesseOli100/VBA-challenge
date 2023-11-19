@@ -74,7 +74,7 @@ For x = Variable_1 (a number in this example) To Variable_2
 
 If Variable or Formula Then
 		
-  # code needed
+  code needed
   
 End if 
 
