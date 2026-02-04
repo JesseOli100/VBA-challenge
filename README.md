@@ -1,4 +1,4 @@
-# VBA-challenge
+# VBA Coding Challenge Example #1
 
 ## Background
 
