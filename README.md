@@ -30,26 +30,6 @@ Use the sheet alphabetical_testing.xlsx while developing your code. This dataset
 
 Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
 
-## Submission
-
-All three of the following are uploaded to GitHub/GitLab:
-
-Screenshots of the results (5 points)
-
-Separate VBA script files (5 points)
-
-README file (5 points)
-
-## Sources
-
-•	Help from TA Matthew Werth 
-
-•	Met up w/ other students during study groups to hash out the code through what we have learned so far
-
-•	Used StackOverFlow for issues on the code and/or to explain why certain pieces of the script were not running as intended
-
-•	The majority of how the code works is explained on the .bas file through the comments made next to the code. I did my best to iterate each line with the basics precepts of what each line or set of lines is supposed to be doing
-
 ## Notes
 
 What is each set of code supposed to be doing?
@@ -91,8 +71,4 @@ WorksheetFunction.Sum(...) calculates the sum of the values within the specified
 The calculated sum is then assigned to the cell specified in the first part of the code (ws.Cells(Ticker_Count, 12).Value).
 
 This code is summing the values in a specified column (column 7) from row k to row g and then storing that sum in a specific cell in column 12 (the value of Ticker_Count row) of the same worksheet.
-
-- - -
-
-This is submitted by Jesse Olivarez for the University of Utah: Data Analytics Bootcamp
 
